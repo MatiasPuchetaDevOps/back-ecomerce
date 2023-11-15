@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f987b"
+  },
+  "nombre": "Outflit Grenn",
+  "foto": "../img/productos/Conjunto-1.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f987c"
+  },
+  "nombre": "Outfiy black/white",
+  "foto": "../img/productos/Conjunto-2.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f987d"
+  },
+  "nombre": "Outfit Otoño",
+  "foto": "../img/productos/Conjunto-3.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f987e"
+  },
+  "nombre": "Outfit brown",
+  "foto": "../img/productos/Conjunto-4.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f987f"
+  },
+  "nombre": "Outfit cream",
+  "foto": "../img/productos/Conjunto-5.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f9880"
+  },
+  "nombre": "Outfit summer",
+  "foto": "../img/productos/Conjunto-6.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f9881"
+  },
+  "nombre": "Outfit fuck love",
+  "foto": "../img/productos/Conjunto-7.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f9882"
+  },
+  "nombre": "Outflit night black",
+  "foto": "../img/productos/Conjunto-8.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f9883"
+  },
+  "nombre": "Outflit night white",
+  "foto": "../img/productos/Conjunto-9.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+},
+{
+  "_id": {
+    "$oid": "65528faa05dd4c3e573f9884"
+  },
+  "nombre": "Outfit casual",
+  "foto": "../img/productos/Conjunto-10.png",
+  "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+  "precio": 8000,
+  "stock": "10",
+  "marca": "Demian Store",
+  "categoria": "Conjuntos",
+  "envio": false,
+  "cantidad": 2
+}]
