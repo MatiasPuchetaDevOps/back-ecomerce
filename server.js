@@ -17,6 +17,7 @@ const corsConfig = {
 //! Coneccion a Mongo
 conectarMongo();
 
+console.log(process.env.URL_FRONT_CORS)
 //! Middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -29,7 +30,7 @@ app.use("/api/upload", routerUpload); // Aunque sea un middleware lo ponemos aca
 app.use("/api/carrito", routerCarrito); // Aunque sea un middleware lo ponemos aca
 
 app.all("*", (req, res) => {
-  res.status(404).send(`La ryta ${req.url} con el metodo ${req.method} no esta disponible`);
+  res.status(404).send(`La ruta ${req.url} con el metodo ${req.method} no esta disponible`);
 });
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en el puerto: http://localhost:${PORT}`);
