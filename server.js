@@ -2,6 +2,7 @@ import express from "express";
 import "dotenv/config";
 import routerProductos from "./routers/productos.router.js";
 import cors from "cors";
+import morgan from "morgan";  // Importar morgan
 
 import { conectarMongo } from "./config/conectarMongo.js";
 import routerUpload from "./routers/upload.router.js";
@@ -16,6 +17,9 @@ const corsConfig = {
 
 //! Coneccion a Mongo
 conectarMongo();
+
+// Configurar morgan para registrar las peticiones HTTP
+app.use(morgan('dev')); // Usa el formato 'dev' para logs detallados en desarrollo
 
 console.log(process.env.URL_FRONT_CORS)
 //! Middleware
